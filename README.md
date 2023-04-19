@@ -4,6 +4,9 @@ Import data: Start by importing the raw data into Python using a data analysis l
 
 Data cleaning: Before conducting any analysis, it is important to clean the data. This involves removing any missing or invalid data, checking for outliers and errors, and transforming the data into a format that is suitable for analysis.
 
+Total participants: 257
+
+
 Descriptive statistics: Calculate descriptive statistics such as means, standard deviations, and frequencies for each variable to get an overview of the data.
 
 Data visualization: Use data visualization techniques such as histograms, scatter plots, and box plots to explore the data and identify any patterns or relationships.
