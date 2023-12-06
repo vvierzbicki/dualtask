@@ -1,3 +1,4 @@
+# Linear model from lme4 package (Bates, Maechler & Bolker, 2012)
 # Load libraries
 library(lme4)
 library(readr)
